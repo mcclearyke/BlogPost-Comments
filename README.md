@@ -1,5 +1,7 @@
 # Blog Post with Comments
 
+The prompt was to make a mock blog page that would allow for comments to be inputted and displayed.
+
 ## How to access the database using php and MySQL -- on Mac
 
 **Make sure to have downloaded:**
