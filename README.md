@@ -22,3 +22,5 @@
 * Go to the htdocs folder
  * In that folder add another one and place the code from this project in it
 * **To Run the blog** --> go to browser and type in localhost:8080/*the_name_of_the_folder_you_made*
+
+![alt text](https://github.com/mcclearyke/BlogPost-Comments/blob/main/Coding%20with%20Kendall%20Blog-1.png)
