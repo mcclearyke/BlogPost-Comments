@@ -2,12 +2,12 @@
 
 ## How to access the database using php and MySQL -- on Mac
 
-Make sure to have downloaded:
+**Make sure to have downloaded:**
 * XAMPP
 * MySQL
 * phpMyAdmin
 
-**How to run:**
+**Once Downloaded:**
 
 * Run your MySQL
 * Have open XAMPP and press start
@@ -16,7 +16,7 @@ Make sure to have downloaded:
   * Go to browser and input localhost:8080/phpmyadmin
   * The database should show
 
-## How to see blog in browser
+## How to access the blog page
 * In XAMPP, go to the volumes tab
 * In Volumes click Mount then Explore
 * Go to the htdocs folder
