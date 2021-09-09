@@ -16,7 +16,7 @@
   * Go to browser and input localhost:8080/phpmyadmin
   * The database should show
 
-![alt text](https://github.com/mcclearyke/BlogPost-Comments/blob/main/database%20view.png)
+![alt text](https://github.com/mcclearyke/BlogPost-Comments/blob/main/database_view.png)
 
 ## How to access the blog page
 * In XAMPP, go to the volumes tab
